@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T11:23:04.687Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="CZXFApNctjs5vF9WT0q2" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T11:23:21.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="DzNO68Swty1n8Nj5LHn5" version="16.2.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,11 +92,11 @@
         <mxCell id="lNerqW3ngCJh8FkJe8Uk-26" value="Hjálp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" y="660" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tV5j-SoInVpzmLVwvzLR-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lNerqW3ngCJh8FkJe8Uk-28" target="tV5j-SoInVpzmLVwvzLR-12">
+        <mxCell id="tV5j-SoInVpzmLVwvzLR-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lNerqW3ngCJh8FkJe8Uk-28" target="tV5j-SoInVpzmLVwvzLR-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="470" y="450" />
-              <mxPoint x="470" y="390" />
+              <mxPoint x="470" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -143,7 +143,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tV5j-SoInVpzmLVwvzLR-12" value="Leikir" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="370" width="120" height="40" as="geometry" />
+          <mxGeometry x="490" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Samfélög" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" y="565" width="120" height="40" as="geometry" />
