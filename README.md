@@ -1,10 +1,12 @@
-<img src="Flaedirit.drawio.png" align="middle" />
+<img src="Flaedirit.drawio.png" align="bottom" />
 
 # Íslenskuleikir.is
 > Davíð Þór Torfason
 > Vefforritun-II
 > Tölvubraut
 > Tækniskólinn Háteigsvegur
+
+## Lýsing
 Íslenskur tölvuleikjaupplýsingavefur fyrir íslenska aðdáendur, unglinga og fullorðna, sem gefur lýsingu ákveðinns leiks sem þeir hafa spilað þegar þeir voru yngri og vilja endurrifja næstu kynslóðum. Fjallað er einnig um framleiðendur og útgefendur leiksins, hvar hann fæst og hvort hann sé í hæfi til að vera þýddur með íslensku tali fyrir börn sem skilja ekki ensku.<br><br>
 Með öðrum orðum: þetta er samfélagslegvefsíða sem notendur kynna leiki sem þeir hafa spilað eða lært um til þess að meta um hvort hægt sé að talsetja þá yfir á íslensku fyrir yngri börn sem vilja spila leikina með íslensku tali heldur enn ensku.
 
