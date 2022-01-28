@@ -1,5 +1,11 @@
-# Vefforritun-II
-Íslenskt tölvuleikjaupplýsingavefur fyrir íslenska aðdáendur, unglinga og fullorðna, sem gefur lýsingu ákveðinns leiks sem þeir hafa spilað þegar þeir voru yngri og vilja endurrifja næstu kynslóðum. Fjallað er einnig um framleiðendur og útgefendur leiksins, hvar hann fæst og hvort hann sé í hæfi til að vera þýddur með íslensku tali fyrir börn sem skilja ekki ensku.<br><br>
+# Íslenskuleikir.is
+> Davíð Þór Torfason
+> Vefforritun-II
+> Tölvubraut
+> Tækniskólinn Háteigsvegur
+
+## Lýsing
+Íslenskur tölvuleikjaupplýsingavefur fyrir íslenska aðdáendur, unglinga og fullorðna, sem gefur lýsingu ákveðinns leiks sem þeir hafa spilað þegar þeir voru yngri og vilja endurrifja næstu kynslóðum. Fjallað er einnig um framleiðendur og útgefendur leiksins, hvar hann fæst og hvort hann sé í hæfi til að vera þýddur með íslensku tali fyrir börn sem skilja ekki ensku.<br><br>
 Með öðrum orðum: þetta er samfélagslegvefsíða sem notendur kynna leiki sem þeir hafa spilað eða lært um til þess að meta um hvort hægt sé að talsetja þá yfir á íslensku fyrir yngri börn sem vilja spila leikina með íslensku tali heldur enn ensku.
 
 **Aðvörun**: Notkun á samræðiskenningum, blótssyrði eða aðrar óviðeigandi hegðanir gagnvart öðrum eru stranglega bannaðar. Nokkur þessara brota geta gert aðgang afbrotamannsins ógildann og hætt þeim einnig á ákæru eftir alvarleika brotsins<br>
@@ -20,3 +26,6 @@ Með öðrum orðum: þetta er samfélagslegvefsíða sem notendur kynna leiki s
    2. Ef notendur eru skráðir með tölvupóst þá ætti að vera hægt að fá tilkynningar frá síðunni ef t.d. einhverjar af umsögnum þeirra hafi verið eyddar og ástæðuna fyrir það (Þeir mega samt svara póstunum ef það er eitthvað sem þeir vilja spyrja nánar)
 * að geta ógilt aðgang á notendum sem frömdu einhver afbrot á vefsíðunni (sjá Aðvörun efst) _**og**_ getað sent kæru
 * að stjórna birtingu frétta sem birtar eru á vefsíðunni (_**einnig**_ leiki og beiðni)
+
+### Flæðirit
+<img src="Flaedirit.drawio.png" align="middle" />
