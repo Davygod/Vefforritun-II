@@ -1,5 +1,3 @@
-<img src="Flaedirit.drawio.png" align="bottom" />
-
 # Íslenskuleikir.is
 > Davíð Þór Torfason
 > Vefforritun-II
@@ -28,3 +26,6 @@ Með öðrum orðum: þetta er samfélagslegvefsíða sem notendur kynna leiki s
    2. Ef notendur eru skráðir með tölvupóst þá ætti að vera hægt að fá tilkynningar frá síðunni ef t.d. einhverjar af umsögnum þeirra hafi verið eyddar og ástæðuna fyrir það (Þeir mega samt svara póstunum ef það er eitthvað sem þeir vilja spyrja nánar)
 * að geta ógilt aðgang á notendum sem frömdu einhver afbrot á vefsíðunni (sjá Aðvörun efst) _**og**_ getað sent kæru
 * að stjórna birtingu frétta sem birtar eru á vefsíðunni (_**einnig**_ leiki og beiðni)
+
+### Flæðirit
+<img src="Flaedirit.drawio.png" align="middle" />
