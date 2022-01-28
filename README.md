@@ -1,7 +1,7 @@
 # Íslenskuleikir.is
-> Davíð Þór Torfason
-> Vefforritun-II
-> Tölvubraut
+> Davíð Þór Torfason,
+> Vefforritun-II,
+> Tölvubraut,
 > Tækniskólinn Háteigsvegur
 
 ## Lýsing
