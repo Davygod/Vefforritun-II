@@ -1,7 +1,7 @@
 # Íslenskuleikir.is
-> Davíð Þór Torfason
-> Vefforritun-II
-> Tölvubraut
+> Davíð Þór Torfason,
+> Vefforritun-II,
+> Tölvubraut,
 > Tækniskólinn Háteigsvegur
 
 ## Lýsing
@@ -29,3 +29,6 @@ Með öðrum orðum: þetta er samfélagslegvefsíða sem notendur kynna leiki s
 
 ### Flæðirit
 <img src="Flaedirit.drawio.png" align="middle" />
+
+### Wireframes
+<img src="heimasida.png" align="middle" />
