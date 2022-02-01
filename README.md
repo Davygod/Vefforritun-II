@@ -32,3 +32,7 @@ Með öðrum orðum: þetta er samfélagslegvefsíða sem notendur kynna leiki s
 
 ### Wireframes
 <img src="heimasida.png" align="middle" />
+
+### Heimildir
+* [Build a Responsive Website | HTML, CSS Grid, Flexbox & More](https://www.youtube.com/watch?v=p0bGHP-PXD4)
+* [Build A Responsive Gaming Website Using HTML, CSS & JavaScript](https://www.youtube.com/watch?v=rdpUUK39wPA)
