@@ -1,4 +1,4 @@
-# Íslenskuleikir.is
+# ÍslLeikir.is
 > Davíð Þór Torfason,
 > Vefforritun-II,
 > Tölvubraut,
