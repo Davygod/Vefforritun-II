@@ -31,7 +31,16 @@ Með öðrum orðum: þetta er samfélagslegvefsíða sem notendur kynna leiki s
 <img src="Flaedirit.drawio.png" align="middle" />
 
 ### Wireframes
-<img src="heimasida.png" align="middle" />
+<img src="heimasida.png" width="400" />
+<img src="Um Vefsíðuna.png" width="400" />
+<img src="Uppgötva.png" width="400" />
+<img src="Hafa samband.png" width="400" />
+<img src="Skrá inn með Facebook.png" width="400" />
+<img src="Pallar(Platforms).png" width="400" />
+<img src="Nýlega kynntir leikir.png" width="400" />
+<img src="Bæta inn leik.png" width="400" />
+<img src="Innskráning.png" width="400" />
+
 
 ### Heimildir
 * [Build a Responsive Website | HTML, CSS Grid, Flexbox & More](https://www.youtube.com/watch?v=p0bGHP-PXD4)
