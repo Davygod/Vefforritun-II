@@ -38,7 +38,7 @@ Með öðrum orðum: þetta er samfélagslegvefsíða sem notendur kynna leiki s
 <img src="Skrá inn með Facebook.png" width="400" />
 <img src="Pallar(Platforms).png" width="400" />
 <img src="Nýlega kynntir leikir.png" width="400" />
-<img src="Bæta inn leik.png" width="400" />
+<img src="Bæta inn leik (1).png" width="400" />
 <img src="Innskráning.png" width="400" />
 
 
