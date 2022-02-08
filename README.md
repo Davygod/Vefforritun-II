@@ -45,3 +45,4 @@ Með öðrum orðum: þetta er samfélagslegvefsíða sem notendur kynna leiki s
 ### Heimildir
 * [Build a Responsive Website | HTML, CSS Grid, Flexbox & More](https://www.youtube.com/watch?v=p0bGHP-PXD4)
 * [Build A Responsive Gaming Website Using HTML, CSS & JavaScript](https://www.youtube.com/watch?v=rdpUUK39wPA)
+* [PHP MySQL Login System](https://www.tutorialrepublic.com/php-tutorial/php-mysql-login-system.php)
