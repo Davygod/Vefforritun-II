@@ -28,18 +28,18 @@ Með öðrum orðum: þetta er samfélagslegvefsíða sem notendur kynna leiki s
 * að stjórna birtingu frétta sem birtar eru á vefsíðunni (_**einnig**_ leiki og beiðni)
 
 ### Flæðirit
-<img src="Flaedirit.drawio.png" align="middle" />
+<img src="images/Flaedirit.drawio.png" align="middle" />
 
 ### Wireframes
-<img src="heimasida.png" width="400" />
-<img src="Um Vefsíðuna.png" width="400" />
-<img src="Uppgötva.png" width="400" />
-<img src="Hafa samband.png" width="400" />
-<img src="Skrá inn með Facebook.png" width="400" />
-<img src="Pallar(Platforms).png" width="400" />
-<img src="Nýlega kynntir leikir.png" width="400" />
-<img src="Bæta inn leik (1).png" width="400" />
-<img src="Innskráning.png" width="400" />
+<img src="images/heimasida.png" width="400" />
+<img src="images/Um Vefsíðuna.png" width="400" />
+<img src="images/Uppgötva.png" width="400" />
+<img src="images/Hafa samband.png" width="400" />
+<img src="images/Skrá inn með Facebook.png" width="400" />
+<img src="images/Pallar(Platforms).png" width="400" />
+<img src="images/Nýlega kynntir leikir.png" width="400" />
+<img src="images/Bæta inn leik (1).png" width="400" />
+<img src="images/Innskráning.png" width="400" />
 
 
 ### Heimildir
