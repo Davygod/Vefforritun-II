@@ -1,0 +1,12 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+  <div class="jumbotron text-center">
+    <h1>Innskráning</h1>
+    <p class="lead"><b>Aðvörun:</b> Notkun á samræðiskenningum, blótssyrði eða aðrar óviðeigandi hegðanir gagnvart öðrum eru stranglega bannaðar. Nokkur þessara brota geta gert aðgang afbrotamannsins ógildann og hætt þeim einnig á ákæru eftir alvarleika brotsins<br></p>
+    {% if session.logged_in == NULL %}
+      <a href="/register" class="btn btn-primary btn-lg">Register</a>
+      <a href="/login" class="btn btn-success btn-lg">Login</a>
+    {% endif %}
+  </div>
+{% endblock %}
