@@ -1,12 +1,32 @@
-{% extends 'layout.html' %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Innskráning</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+<body>
+  <div class="container">
+    
+  </div>
 
-{% block body %}
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="//cdn.ckeditor.com/4.6.2/basic/ckeditor.js"></script>
+    <script type="text/javascript">
+      CKEDITOR.replace('editor')
+    </script>
+</body>
+</html>
+
+
+
   <div class="jumbotron text-center">
     <h1>Innskráning</h1>
-    <p class="lead"><b>Aðvörun:</b> Notkun á samræðiskenningum, blótssyrði eða aðrar óviðeigandi hegðanir gagnvart öðrum eru stranglega bannaðar. Nokkur þessara brota geta gert aðgang afbrotamannsins ógildann og hætt þeim einnig á ákæru eftir alvarleika brotsins<br></p>
-    {% if session.logged_in == NULL %}
-      <a href="/register" class="btn btn-primary btn-lg">Register</a>
-      <a href="/login" class="btn btn-success btn-lg">Login</a>
-    {% endif %}
+    <p class="lead">Veldu eftirfarandi</p>
+    <!--{if session.logged_in == NULL %}-->
+      <a href="/register" class="btn btn-primary btn-lg">Búa til aðgang</a>
+      <a href="/login" class="btn btn-success btn-lg">Skrá inn</a>
+    <!--{% endif %}-->
   </div>
-{% endblock %}
