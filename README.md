@@ -45,4 +45,9 @@ Með öðrum orðum: þetta er samfélagslegvefsíða sem notendur kynna leiki s
 ### Heimildir
 * [Build a Responsive Website | HTML, CSS Grid, Flexbox & More](https://www.youtube.com/watch?v=p0bGHP-PXD4)
 * [Build A Responsive Gaming Website Using HTML, CSS & JavaScript](https://www.youtube.com/watch?v=rdpUUK39wPA)
-* [PHP MySQL Login System](https://www.tutorialrepublic.com/php-tutorial/php-mysql-login-system.php)
+* [Python Flask From Scratch - [Part 1] - Getting Started](https://www.youtube.com/watch?v=zRwy8gtgJ1A)
+* [Python Flask From Scratch [Part 2] - User Registration](https://www.youtube.com/watch?v=addnlzdSQs4)
+* [Python Flask From Scratch [Part 3] - Login & Access Control](https://www.youtube.com/watch?v=QEMtSUxtUDY)
+* [Python Flask From Scratch [Part 4] - Dashboard & Articles](https://www.youtube.com/watch?v=EgnyWxKFwjs)
+* [Python Flask From Scratch [Part 5] - Edit & Delete Articles
+](https://www.youtube.com/watch?v=Us9DuF4KWUE)

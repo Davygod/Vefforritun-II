@@ -9,7 +9,8 @@
 </head>
 <body>
   <div class="container">
-    
+    {% include 'includes/_messages.html' %}
+    {% block body %}{% endblock %} 
   </div>
 
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
@@ -19,14 +20,3 @@
     </script>
 </body>
 </html>
-
-
-
-  <div class="jumbotron text-center">
-    <h1>Innskráning</h1>
-    <p class="lead">Veldu eftirfarandi</p>
-    <!--{if session.logged_in == NULL %}-->
-      <a href="/templates/buaTilAdgang.html" class="btn btn-primary btn-lg">Búa til aðgang</a>
-      <a href="/templates/skraInn.html" class="btn btn-success btn-lg">Skrá inn</a>
-    <!--{% endif %}-->
-  </div>
