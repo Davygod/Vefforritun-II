@@ -1,5 +1,10 @@
-{% extends '/templates/layout.html' %}
+{% extends 'layout.html' %}
 
 {% block body %}
- {{leikur.title}}
+  <h1>{{leikur.title}}</h1>
+  <small>Written by {{leikur.author}} on {{leikur.create_date}}</small>
+  <hr>
+  <div>
+    {{leikur.body | safe}}
+  </div>
 {% endblock %}
