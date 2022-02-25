@@ -31,6 +31,11 @@ Með öðrum orðum: þetta er samfélagslegvefsíða sem notendur kynna leiki s
 * Javascript
 * Flask
 
+### Skjámyndir
+<img src="images/forsida.PNG" align="middle" />
+<img src="images/innskraning.PNG" align="middle" />
+<img src="images/umSidu.PNG" align="middle" />
+
 ### Flæðirit
 <img src="images/Flaedirit.drawio.png" align="middle" />
 
