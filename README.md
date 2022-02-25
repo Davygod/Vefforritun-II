@@ -35,6 +35,8 @@ Með öðrum orðum: þetta er samfélagslegvefsíða sem notendur kynna leiki s
 <img src="images/forsida.PNG" align="middle" />
 <img src="images/innskraning.PNG" align="middle" />
 <img src="images/umSidu.PNG" align="middle" />
+<br>
+<br>
 
 ### Skjáupptaka
 [![Sjá upptöku síðu](/images/forsida.PNG)](https://www.youtube.com/watch?v=yFJItwFOFv4)
