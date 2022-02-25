@@ -25,7 +25,7 @@ Með öðrum orðum: þetta er samfélagslegvefsíða sem notendur kynna leiki s
 * að geta ógilt aðgang á notendum sem frömdu einhver afbrot á vefsíðunni (sjá Aðvörun efst) _**og**_ getað sent kæru
 * að stjórna birtingu frétta sem birtar eru á vefsíðunni (_**einnig**_ leiki og beiðni)
 
-### Vefkerfi
+### Vefkerfi í notkun
 * Html
 * CSS
 * Javascript
