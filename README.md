@@ -8,8 +8,6 @@
 Íslenskur tölvuleikjaupplýsingavefur fyrir íslenska aðdáendur, unglinga og fullorðna, sem gefur lýsingu ákveðinns leiks sem þeir hafa spilað þegar þeir voru yngri og vilja endurrifja næstu kynslóðum. Fjallað er einnig um framleiðendur og útgefendur leiksins, hvar hann fæst og hvort hann sé í hæfi til að vera þýddur með íslensku tali fyrir börn sem skilja ekki ensku.<br><br>
 Með öðrum orðum: þetta er samfélagslegvefsíða sem notendur kynna leiki sem þeir hafa spilað eða lært um til þess að meta um hvort hægt sé að talsetja þá yfir á íslensku fyrir yngri börn sem vilja spila leikina með íslensku tali heldur enn ensku.
 
-**Aðvörun**: Notkun á samræðiskenningum, blótssyrði eða aðrar óviðeigandi hegðanir gagnvart öðrum eru stranglega bannaðar. Nokkur þessara brota geta gert aðgang afbrotamannsins ógildann og hætt þeim einnig á ákæru eftir alvarleika brotsins<br>
-
 ### Sem "Notandi" vil ég:
 * skoða kynningu tölvuleiks í eftirfarandi leikjatölvu og fyrirtæki, hver saga hennar er og gagnrýni og hvort ég mæli með að gera hann nógu frægann þannig að hægt verði að bæta við íslensku talsetningu ef mögulegt
 * geta bætt við mína eigin umsögn á leikinn ásamt heimildum og/eða bæta við nýjann leik ásamt heimildum í vefsíðuna, og bæta við myndefni og/eða myndbönd til nánari lýsingar og vakið áhuga hjá hinum notendunum
@@ -26,6 +24,22 @@ Með öðrum orðum: þetta er samfélagslegvefsíða sem notendur kynna leiki s
    2. Ef notendur eru skráðir með tölvupóst þá ætti að vera hægt að fá tilkynningar frá síðunni ef t.d. einhverjar af umsögnum þeirra hafi verið eyddar og ástæðuna fyrir það (Þeir mega samt svara póstunum ef það er eitthvað sem þeir vilja spyrja nánar)
 * að geta ógilt aðgang á notendum sem frömdu einhver afbrot á vefsíðunni (sjá Aðvörun efst) _**og**_ getað sent kæru
 * að stjórna birtingu frétta sem birtar eru á vefsíðunni (_**einnig**_ leiki og beiðni)
+
+### Vefkerfi í notkun
+* Html
+* CSS
+* Javascript
+* Flask
+
+### Skjámyndir
+<img src="images/forsida.PNG" align="middle" />
+<img src="images/innskraning.PNG" align="middle" />
+<img src="images/umSidu.PNG" align="middle" />
+<br>
+<br>
+
+### Skjáupptaka
+[![Sjá upptöku síðu](/images/forsida.PNG)](https://www.youtube.com/watch?v=yFJItwFOFv4)
 
 ### Flæðirit
 <img src="images/Flaedirit.drawio.png" align="middle" />
