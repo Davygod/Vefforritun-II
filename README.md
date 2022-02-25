@@ -8,8 +8,6 @@
 Íslenskur tölvuleikjaupplýsingavefur fyrir íslenska aðdáendur, unglinga og fullorðna, sem gefur lýsingu ákveðinns leiks sem þeir hafa spilað þegar þeir voru yngri og vilja endurrifja næstu kynslóðum. Fjallað er einnig um framleiðendur og útgefendur leiksins, hvar hann fæst og hvort hann sé í hæfi til að vera þýddur með íslensku tali fyrir börn sem skilja ekki ensku.<br><br>
 Með öðrum orðum: þetta er samfélagslegvefsíða sem notendur kynna leiki sem þeir hafa spilað eða lært um til þess að meta um hvort hægt sé að talsetja þá yfir á íslensku fyrir yngri börn sem vilja spila leikina með íslensku tali heldur enn ensku.
 
-**Aðvörun**: Notkun á samræðiskenningum, blótssyrði eða aðrar óviðeigandi hegðanir gagnvart öðrum eru stranglega bannaðar. Nokkur þessara brota geta gert aðgang afbrotamannsins ógildann og hætt þeim einnig á ákæru eftir alvarleika brotsins<br>
-
 ### Sem "Notandi" vil ég:
 * skoða kynningu tölvuleiks í eftirfarandi leikjatölvu og fyrirtæki, hver saga hennar er og gagnrýni og hvort ég mæli með að gera hann nógu frægann þannig að hægt verði að bæta við íslensku talsetningu ef mögulegt
 * geta bætt við mína eigin umsögn á leikinn ásamt heimildum og/eða bæta við nýjann leik ásamt heimildum í vefsíðuna, og bæta við myndefni og/eða myndbönd til nánari lýsingar og vakið áhuga hjá hinum notendunum
