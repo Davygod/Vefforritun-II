@@ -25,12 +25,6 @@ Með öðrum orðum: þetta er samfélagslegvefsíða sem notendur kynna leiki s
 * að geta ógilt aðgang á notendum sem frömdu einhver afbrot á vefsíðunni (sjá Aðvörun efst) _**og**_ getað sent kæru
 * að stjórna birtingu frétta sem birtar eru á vefsíðunni (_**einnig**_ leiki og beiðni)
 
-### Vefkerfi í notkun
-* Html
-* CSS
-* Javascript
-* Flask
-
 ### Skjámyndir
 <img src="images/forsida.PNG" align="middle" />
 <img src="images/innskraning.PNG" align="middle" />
@@ -55,6 +49,10 @@ Með öðrum orðum: þetta er samfélagslegvefsíða sem notendur kynna leiki s
 <img src="images/Bæta inn leik (1).png" width="400" />
 <img src="images/Innskráning.png" width="400" />
 
+### Samantekt
+* Hver væru næstu skref í forgangsröð?
+   1. Finna stuðningsmenn
+   2. Að fá gagnasafn til að virka samkvæmt "Lýsingu"
 
 ### Heimildir
 * [Build a Responsive Website | HTML, CSS Grid, Flexbox & More](https://www.youtube.com/watch?v=p0bGHP-PXD4)
