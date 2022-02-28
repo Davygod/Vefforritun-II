@@ -50,6 +50,10 @@ Með öðrum orðum: þetta er samfélagslegvefsíða sem notendur kynna leiki s
 <img src="images/Innskráning.png" width="400" />
 
 ### Samantekt
+* Hvaða hönnunarmynstur, framework og söfn eru notuð?
+   1. Notað er html, css og javascript sem hönnunarmynstur
+   2. Flask er aðal safnið fyrir gögn vefsíðunnar
+   3. Balsamiq er "framework"
 * Hver væru næstu skref í forgangsröð?
    1. Finna stuðningsmenn
    2. Að fá gagnasafn til að virka samkvæmt "Lýsingu"
