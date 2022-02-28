@@ -54,7 +54,7 @@ Með öðrum orðum: þetta er samfélagslegvefsíða sem notendur kynna leiki s
    1. Finna stuðningsmenn
    2. Að fá gagnasafn til að virka samkvæmt "Lýsingu"
    
-<img src="images/Procects.png" width="400" />
+<img src="images/Projects.PNG" width="400" />
 
 ### Heimildir
 * [Build a Responsive Website | HTML, CSS Grid, Flexbox & More](https://www.youtube.com/watch?v=p0bGHP-PXD4)
